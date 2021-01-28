@@ -104,6 +104,7 @@ option,
 input {
   font-family: "Bebas Neue", cursive;
   color: black;
+  font-size: 18px;
 }
 
 .selector,
