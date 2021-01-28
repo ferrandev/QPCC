@@ -9,7 +9,6 @@ class MyDocument extends Document {
                 <Head>
 
                     <link rel="icon" type="image/png" href="static/favicon/favicon.ico" />
-                    <meta name="google-site-verification" content="pp8BxspkSI4A5A03bxI9pxbMWgkjpHeD1UD-So_2qZg" />
                     <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
                     <meta httpEquiv="Content-Type" content="text/html; charset=ISO-8859-1" />
                     <meta name="viewport" content="width=device-width, initial-scale=1" />
