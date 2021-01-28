@@ -7,6 +7,7 @@ class MyDocument extends Document {
         return (
             <Html lang="es">
                 <Head>
+                    <meta name="google-site-verification" content="J48M2THb9XKNaaBbUiDkxu2PiRwib1ffd3EFIoXtaJw" />
 
                     <link rel="icon" type="image/png" href="static/favicon/favicon.ico" />
                     <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
